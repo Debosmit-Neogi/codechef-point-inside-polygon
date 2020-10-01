@@ -1,2 +1,2 @@
 # codechef-point-inside-polygon
-codechef question using java
+codechef question solution using java
